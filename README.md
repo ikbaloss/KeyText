@@ -4,7 +4,7 @@ You can cite the application by coppying this bibtext:
 ```
 @software{maulana_keytext_2026,
     address = {Jakarta},
-    title = {{KeyText Version 0.20}},
+    title = {{KeyText Version 0.22}},
     type = {Computer software},
     url = {https://github.com/ikbaloss/KeyText},
     author = {Maulana, Ikbal},
